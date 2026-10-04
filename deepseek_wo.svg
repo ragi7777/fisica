@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    text {
+      font-family: 'Times New Roman', Georgia, serif;
+      fill: #F08080;
+      font-weight: bold;
+    }
+  </style>
+  
+  <!-- Fondo transparente -->
+  <rect width="200" height="200" fill="transparent"/>
+  
+  <!-- Omega griega (mayúscula) -->
+  <text x="55" y="150" font-size="160" text-anchor="middle">ω</text>
+  
+  <!-- Ò mayúscula con acento abierto -->
+  <text x="155" y="150" font-size="120" text-anchor="middle">Ò</text>
+</svg>
