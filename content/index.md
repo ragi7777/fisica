@@ -7,6 +7,7 @@ Description: Documentación de Física
 
 ### [Deducción de transformaciones de Lorenz](deduccion_lorentz)
 ### [Las partículas sin masa van a la velocidad de la luz](sin_masa_velocidad_c)
+### [Teorema de Bell: Realidad + Localidad](teorema_bell)
 ### [Demostración del Teorema CPT](demostracion_cpt)
 ### [Demostración clásica del Teorema Spin Estadística](demostracion_spin_esta_1)
 ### [Demostración axiomática del Teorema Spin Estadística](demostracion_spin_esta_2)
